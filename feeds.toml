@@ -1,0 +1,21 @@
+[vlive]
+title = "BTS ─ Star Board"
+url = "https://www.vlive.tv/channel/FE619/board/3498"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "span[class^='upload_time']"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[vlive_notice]
+title = "BTS ─ Notice"
+url = "https://www.vlive.tv/channel/FE619/board/35"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "span[class^='upload_time']"
+waitUntil = "networkidle"
+onFail = "stale"
