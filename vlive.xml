@@ -4,9 +4,17 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Aug 2021 11:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 13:01:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뿅]]></title>
+            <link>https://www.vlive.tv/post/0-25056764</link>
+            <guid>https://www.vlive.tv/post/0-25056764</guid>
+            <pubDate>Mon, 30 Aug 2021 13:00:50 GMT</pubDate>
+            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210830_134/1630328296110pEE5E_JPEG/d9978820-0990-11ec-89ce-48df379ccacc_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Run BTS! 2021 - EP.148]]></title>
             <link>https://www.vlive.tv/post/0-24821324</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-24879991</guid>
             <pubDate>Fri, 20 Aug 2021 13:41:00 GMT</pubDate>
             <content:encoded><![CDATA[8.20.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210820_87/16294653127195SRfx_JPEG/upload_73545034090687037e58baf46-d041-4289-828b-b55b578113c2.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남진]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-23977797</guid>
             <pubDate>Fri, 20 Aug 2021 05:34:54 GMT</pubDate>
             <content:encoded><![CDATA[7.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS (방탄소년단) 'Permission to Dance' Official Teaser]]></title>
-            <link>https://www.vlive.tv/post/0-23915834</link>
-            <guid>https://www.vlive.tv/post/0-23915834</guid>
-            <pubDate>Fri, 20 Aug 2021 05:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[7.6.]]></content:encoded>
         </item>
     </channel>
 </rss>
