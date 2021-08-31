@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 11:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 13:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Run BTS! 2021 - EP.149 (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-24929236</link>
+            <guid>https://www.vlive.tv/post/1-24929236</guid>
+            <pubDate>Tue, 31 Aug 2021 13:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210830_96/1630314330273xcWim_PNG/upload_7439404841637509951b6637a-8df0-415d-96c4-231f7fd1de7e.png?type=f359x202" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뿅 (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-25056764</link>
             <guid>https://www.vlive.tv/post/0-25056764</guid>
             <pubDate>Mon, 30 Aug 2021 13:00:50 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8.30.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210830_127/1630328971816a04XO_JPEG/upload_744087029312920335908c929-c20b-45f9-a68c-a28e916760de.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-24934562</guid>
             <pubDate>Mon, 23 Aug 2021 10:42:57 GMT</pubDate>
             <content:encoded><![CDATA[8.23.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210823_188/1629713612888MOuWf_JPEG/upload_737933483089613507d12ddbf-bf8d-46db-af42-043e5f7dee23.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[BTS] 우리 지민이는 오늘도 내일도 매일매일 행복하십시오🐥❣️ (JIMIN’s V in the car) (BTS ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-24081937</guid>
             <pubDate>Fri, 20 Aug 2021 05:34:54 GMT</pubDate>
             <content:encoded><![CDATA[7.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS (방탄소년단) 'Permission to Dance' Official MV (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-23977797</link>
-            <guid>https://www.vlive.tv/post/0-23977797</guid>
-            <pubDate>Fri, 20 Aug 2021 05:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[7.9.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단 그래미 어워즈 베스트 팝 듀오/그룹 퍼포먼스 노미네이트 된 이유 (BTS ─ Notice)]]></title>
