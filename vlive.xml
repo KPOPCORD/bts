@@ -4,15 +4,23 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 14:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 15:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피 벌스데이 투 미🥳]]></title>
+            <link>https://www.vlive.tv/post/1-25087704</link>
+            <guid>https://www.vlive.tv/post/1-25087704</guid>
+            <pubDate>Tue, 31 Aug 2021 15:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/261279/thumb?type=f640_362" length="0" type="image//live/261279/thumb"/>
+        </item>
         <item>
             <title><![CDATA[Run BTS! 2021 - EP.149]]></title>
             <link>https://www.vlive.tv/post/1-24929236</link>
             <guid>https://www.vlive.tv/post/1-24929236</guid>
             <pubDate>Tue, 31 Aug 2021 13:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210830_96/1630314330273xcWim_PNG/upload_7439404841637509951b6637a-8df0-415d-96c4-231f7fd1de7e.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-24821324</guid>
             <pubDate>Tue, 24 Aug 2021 13:00:10 GMT</pubDate>
             <content:encoded><![CDATA[8.24.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210825_63/1629882871555gLdcu_PNG/upload_46152458053428938a63b8f64-26ea-47fa-8e06-2af7970efab4.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[BTS] 주위를 돌아봐서 아무말 장인을 찾으라면 남진을 찾을 거야 (JIN&RM building nano blocks)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-24128849</guid>
             <pubDate>Fri, 20 Aug 2021 05:34:54 GMT</pubDate>
             <content:encoded><![CDATA[7.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[급 라이브~~]]></title>
-            <link>https://www.vlive.tv/post/0-24081937</link>
-            <guid>https://www.vlive.tv/post/0-24081937</guid>
-            <pubDate>Fri, 20 Aug 2021 05:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[7.13.]]></content:encoded>
         </item>
     </channel>
 </rss>
