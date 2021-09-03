@@ -4,9 +4,17 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 03:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 04:52:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BTS] 소중한 날 기념!! 노래 만들기 with 천재로맨틱강아지 전정국🎤🎶 (HAPPY JUNGKOOK DAY!)]]></title>
+            <link>https://www.vlive.tv/post/0-25159072</link>
+            <guid>https://www.vlive.tv/post/0-25159072</guid>
+            <pubDate>Fri, 03 Sep 2021 04:52:45 GMT</pubDate>
+            <content:encoded><![CDATA[55분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210903_131/1630641033368Hu1D9_JPEG/upload_469106404338480917da17e2e-374b-4789-b063-3f3ca35c0b71.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해피 벌스데이 투 미🥳]]></title>
             <link>https://www.vlive.tv/post/1-25087704</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25056764</guid>
             <pubDate>Mon, 30 Aug 2021 13:00:50 GMT</pubDate>
             <content:encoded><![CDATA[8.30.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210830_127/1630328971816a04XO_JPEG/upload_744087029312920335908c929-c20b-45f9-a68c-a28e916760de.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Run BTS! 2021 - EP.148]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24206792</guid>
             <pubDate>Fri, 20 Aug 2021 05:34:54 GMT</pubDate>
             <content:encoded><![CDATA[7.19.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[BTS] 김남준 진짜 음악의 신 같고(신 맞음) 너무 멋있다구요💦 (RM’s episodes about lyrics writing)]]></title>
-            <link>https://www.vlive.tv/post/0-24128849</link>
-            <guid>https://www.vlive.tv/post/0-24128849</guid>
-            <pubDate>Fri, 20 Aug 2021 05:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[7.15.]]></content:encoded>
         </item>
     </channel>
 </rss>
