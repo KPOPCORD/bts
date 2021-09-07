@@ -4,9 +4,17 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 11:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 13:01:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Run BTS! 2021 - EP.150]]></title>
+            <link>https://www.vlive.tv/post/1-25128890</link>
+            <guid>https://www.vlive.tv/post/1-25128890</guid>
+            <pubDate>Tue, 07 Sep 2021 13:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210906_90/1630926258312x2rKX_JPEG/upload_47195861533059480b7f63924-2647-4331-b94e-05eeb409f063.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[BTS] 소중한 날 기념!! 노래 만들기 with 천재로맨틱강아지 전정국🎤🎶 (HAPPY JUNGKOOK DAY!)]]></title>
             <link>https://www.vlive.tv/post/0-25159072</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-24929236</guid>
             <pubDate>Tue, 31 Aug 2021 13:02:30 GMT</pubDate>
             <content:encoded><![CDATA[8.31.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210830_96/1630314330273xcWim_PNG/upload_7439404841637509951b6637a-8df0-415d-96c4-231f7fd1de7e.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뿅]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-24246518</guid>
             <pubDate>Fri, 20 Aug 2021 05:34:54 GMT</pubDate>
             <content:encoded><![CDATA[7.22.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[작업실입니다~]]></title>
-            <link>https://www.vlive.tv/post/1-24206792</link>
-            <guid>https://www.vlive.tv/post/1-24206792</guid>
-            <pubDate>Fri, 20 Aug 2021 05:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[7.19.]]></content:encoded>
         </item>
     </channel>
 </rss>
