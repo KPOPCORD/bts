@@ -4,15 +4,23 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 11:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 13:01:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Run BTS! 2021 - EP.151]]></title>
+            <link>https://www.vlive.tv/post/1-25254251</link>
+            <guid>https://www.vlive.tv/post/1-25254251</guid>
+            <pubDate>Tue, 14 Sep 2021 13:00:49 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210913_182/1631504367915eV0MO_JPEG/upload_7558410055820600094d750ea-770b-4d8f-9aaf-f95bba57e388.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조금 늦은 생일축하 😇]]></title>
             <link>https://www.vlive.tv/post/0-25378206</link>
             <guid>https://www.vlive.tv/post/0-25378206</guid>
             <pubDate>Mon, 13 Sep 2021 11:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9.13.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210913_150/1631534963448b2Ppp_JPEG/upload_75614694334272562dae1b118-9fa0-4431-b44a-e191e36ace53.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25159072</guid>
             <pubDate>Fri, 10 Sep 2021 13:00:32 GMT</pubDate>
             <content:encoded><![CDATA[9.3.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210903_131/1630641033368Hu1D9_JPEG/upload_469106404338480917da17e2e-374b-4789-b063-3f3ca35c0b71.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해피 벌스데이 투 미🥳]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24317805</guid>
             <pubDate>Fri, 10 Sep 2021 13:00:32 GMT</pubDate>
             <content:encoded><![CDATA[7.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[먹방]]></title>
-            <link>https://www.vlive.tv/post/0-24282393</link>
-            <guid>https://www.vlive.tv/post/0-24282393</guid>
-            <pubDate>Fri, 10 Sep 2021 13:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[7.24.]]></content:encoded>
         </item>
     </channel>
 </rss>
