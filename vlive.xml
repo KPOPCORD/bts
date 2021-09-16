@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/FE619/board/3498?lang=ko</id>
-    <title>BTS ─ Star Board</title>
-    <updated>2021-09-16T05:26:34.400Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>BTS ─ Star Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 16 Sep 2021 06:35:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[BTS] 남준이와 불안한 케이크와 그걸 바라보는 아미..🎂🎶 (HAPPY RM DAY!)]]></title>
+            <link>https://www.vlive.tv/post/1-25433369</link>
+            <guid>https://www.vlive.tv/post/1-25433369</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210915_189/1631694916486nNgf2_JPEG/upload_47964523550822519d998c81d-a6ca-43e5-bd3e-b6a4b072a62f.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2021 - EP.151]]></title>
+            <link>https://www.vlive.tv/post/1-25254251</link>
+            <guid>https://www.vlive.tv/post/1-25254251</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[9.14.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210913_182/1631504367915eV0MO_JPEG/upload_7558410055820600094d750ea-770b-4d8f-9aaf-f95bba57e388.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조금 늦은 생일축하 😇]]></title>
+            <link>https://www.vlive.tv/post/0-25378206</link>
+            <guid>https://www.vlive.tv/post/0-25378206</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[9.13.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210913_150/1631534963448b2Ppp_JPEG/upload_75614694334272562dae1b118-9fa0-4431-b44a-e191e36ace53.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2021 - EP.150]]></title>
+            <link>https://www.vlive.tv/post/1-25128890</link>
+            <guid>https://www.vlive.tv/post/1-25128890</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[9.7.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BTS] 소중한 날 기념!! 노래 만들기 with 천재로맨틱강아지 전정국🎤🎶 (HAPPY JUNGKOOK DAY!)]]></title>
+            <link>https://www.vlive.tv/post/0-25159072</link>
+            <guid>https://www.vlive.tv/post/0-25159072</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[9.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해피 벌스데이 투 미🥳]]></title>
+            <link>https://www.vlive.tv/post/1-25087704</link>
+            <guid>https://www.vlive.tv/post/1-25087704</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.31.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2021 - EP.149]]></title>
+            <link>https://www.vlive.tv/post/1-24929236</link>
+            <guid>https://www.vlive.tv/post/1-24929236</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.31.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뿅]]></title>
+            <link>https://www.vlive.tv/post/0-25056764</link>
+            <guid>https://www.vlive.tv/post/0-25056764</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.30.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2021 - EP.148]]></title>
+            <link>https://www.vlive.tv/post/0-24821324</link>
+            <guid>https://www.vlive.tv/post/0-24821324</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.24.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BTS] 주위를 돌아봐서 아무말 장인을 찾으라면 남진을 찾을 거야 (JIN&RM building nano blocks)]]></title>
+            <link>https://www.vlive.tv/post/1-24934562</link>
+            <guid>https://www.vlive.tv/post/1-24934562</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BTS] 우리 지민이는 오늘도 내일도 매일매일 행복하십시오🐥❣️ (JIMIN’s V in the car)]]></title>
+            <link>https://www.vlive.tv/post/0-24879991</link>
+            <guid>https://www.vlive.tv/post/0-24879991</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.20.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[남진]]></title>
+            <link>https://www.vlive.tv/post/1-24863077</link>
+            <guid>https://www.vlive.tv/post/1-24863077</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.19.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2021 - EP.147]]></title>
+            <link>https://www.vlive.tv/post/1-24677297</link>
+            <guid>https://www.vlive.tv/post/1-24677297</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.17.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BTS] ‼️충격실화‼️ 빠글빠글 깜장푸들이 브이앱을 한다?! (JIN talking about his hair style)]]></title>
+            <link>https://www.vlive.tv/post/1-24707896</link>
+            <guid>https://www.vlive.tv/post/1-24707896</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2021 - EP.146]]></title>
+            <link>https://www.vlive.tv/post/0-24551057</link>
+            <guid>https://www.vlive.tv/post/0-24551057</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.10.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지금 올 줄 몰랐을거에요 🙃]]></title>
+            <link>https://www.vlive.tv/post/0-24659538</link>
+            <guid>https://www.vlive.tv/post/0-24659538</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.10.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하염 진이에요!]]></title>
+            <link>https://www.vlive.tv/post/1-24644805</link>
+            <guid>https://www.vlive.tv/post/1-24644805</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2021 - EP.145]]></title>
+            <link>https://www.vlive.tv/post/1-24390863</link>
+            <guid>https://www.vlive.tv/post/1-24390863</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[8.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정국이😊]]></title>
+            <link>https://www.vlive.tv/post/0-24395159</link>
+            <guid>https://www.vlive.tv/post/0-24395159</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[7.29.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[BTS] 새벽연습부터 사옥투어까지 다 해주는 호비 정말 대단해얌🐿 (J-HOPE's V in the practice room)]]></title>
+            <link>https://www.vlive.tv/post/1-24360361</link>
+            <guid>https://www.vlive.tv/post/1-24360361</guid>
+            <pubDate>Thu, 16 Sep 2021 06:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[7.27.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
