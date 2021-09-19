@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Sep 2021 11:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 12:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <content:encoded><![CDATA[2017.5.26.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[BTS] 방탄소년단, 추석 연휴보다 달다! (빅히트 뮤직 ─ BTS)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32402024&amp;memberNo=51325039&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32402024&amp;memberNo=51325039&amp;navigationType=push</guid>
+            <pubDate>Sun, 19 Sep 2021 12:44:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">빅히트 뮤직</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTdfMjk1/MDAxNjMxODc3ODM4Mjc3.k5dKyKLqz8NNoCu_LWC2ahZ992X09sKdRxGFSMWLpjog.2e3JYj3y3UezcsCqJQryLUwUe7n3p7HJIHONfz19jmsg.JPEG/I5H26VrRqSZ7lnKVmWb8X_IRp8gs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[BTS] 방탄소년단과 함께라면? 어디서든 춤출 수 있지! (빅히트 뮤직 ─ BTS)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32192334&amp;memberNo=51325039&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32192334&amp;memberNo=51325039&amp;navigationType=push</guid>
@@ -444,14 +452,6 @@
             <pubDate>Sun, 22 Aug 2021 15:17:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">빅히트 뮤직</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMDdfMjE0/MDAxNjAyMDgxMzM1Mzcy.m6VfWMave2Tdibj6z3pftLQSK0yrDgBpodF0t501F_og.FAkyHQlelrxHKpyzBntI-5cZK3xJqRjXWtaLNNlRueQg.JPEG/IKhcP_2-yDzKxsny7UHoxwvRJJoM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BTS] '달님.. 제 소원은요..!' 방탄소년단의 추석 맞이 소원 빌기! (빅히트 뮤직 ─ BTS)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29587563&amp;memberNo=51325039&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29587563&amp;memberNo=51325039&amp;navigationType=push</guid>
-            <pubDate>Sun, 22 Aug 2021 15:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">빅히트 뮤직</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MjdfMTUy/MDAxNjAxMTg4NzczMzMy.fuzbG5aCtE5gpBg-0b7uUKeIFOAPZSGaKwkVPuNHEw0g.ovDNvkk9ZBIBHxhLNxXAY7eOOiA7I7DTUs2jtuhXKMQg.JPEG/IjqHisWb7sBLTcF8HyJDvkD3Sfl4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
