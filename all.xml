@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 09:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 10:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지민씨 등장 (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-25965356</link>
+            <guid>https://www.vlive.tv/post/1-25965356</guid>
+            <pubDate>Wed, 13 Oct 2021 10:31:46 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/265730/thumb?type=f640_362" length="0" type="image//live/265730/thumb"/>
+        </item>
         <item>
             <title><![CDATA[Run BTS! 2021 - EP.155 (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-25803142</link>
             <guid>https://www.vlive.tv/post/1-25803142</guid>
             <pubDate>Tue, 12 Oct 2021 12:46:29 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211005_21/16334414355799scNr_PNG/upload_775211511864691889a5b1690-945e-4411-91fd-f5d3fd67ab61.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-25467757</guid>
             <pubDate>Wed, 06 Oct 2021 23:28:21 GMT</pubDate>
             <content:encoded><![CDATA[9.28.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210924_176/1632472839558LdnOv_JPEG/upload_76552555633277177c90dfb3a-9d88-47ab-b867-96be2a543821.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찐찐막 즐추✌️ (BTS ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24934562</guid>
             <pubDate>Wed, 06 Oct 2021 23:28:21 GMT</pubDate>
             <content:encoded><![CDATA[8.23.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[BTS] 우리 지민이는 오늘도 내일도 매일매일 행복하십시오🐥❣️ (JIMIN’s V in the car) (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-24879991</link>
-            <guid>https://www.vlive.tv/post/0-24879991</guid>
-            <pubDate>Wed, 06 Oct 2021 23:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[8.20.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단 그래미 어워즈 베스트 팝 듀오/그룹 퍼포먼스 노미네이트 된 이유 (BTS ─ Notice)]]></title>
