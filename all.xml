@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 08:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 09:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘서트 전 감짝 등장!😊 (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-26072555</link>
+            <guid>https://www.vlive.tv/post/0-26072555</guid>
+            <pubDate>Wed, 20 Oct 2021 09:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211020_61/1634721340888v6DPK_JPEG/upload_7880107215640637843b6f506-c7dd-4571-a740-cf0481d142f2.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지민씨 등장 (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-25965356</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25672946</guid>
             <pubDate>Wed, 06 Oct 2021 23:28:21 GMT</pubDate>
             <content:encoded><![CDATA[10.5.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210928_236/1632824311809eL1NS_PNG/upload_7690400497154692791cc3df1-72a8-4783-9153-b2da21b61a28.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Run BTS! 2021 - EP.153 (BTS ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-24821324</guid>
             <pubDate>Wed, 06 Oct 2021 23:28:21 GMT</pubDate>
             <content:encoded><![CDATA[8.24.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[BTS] 주위를 돌아봐서 아무말 장인을 찾으라면 남진을 찾을 거야 (JIN&RM building nano blocks) (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-24934562</link>
-            <guid>https://www.vlive.tv/post/1-24934562</guid>
-            <pubDate>Wed, 06 Oct 2021 23:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[8.23.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단 그래미 어워즈 베스트 팝 듀오/그룹 퍼포먼스 노미네이트 된 이유 (BTS ─ Notice)]]></title>
