@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 09:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 10:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <content:encoded><![CDATA[2017.5.26.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[BTS] 방탄소년단과 함께하는 2022년도 벌써 박박! (빅히트 뮤직 ─ BTS)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32673958&amp;memberNo=51325039&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32673958&amp;memberNo=51325039&amp;navigationType=push</guid>
+            <pubDate>Tue, 02 Nov 2021 10:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">빅히트 뮤직</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjhfMTMy/MDAxNjM1NDMyNDQ1Njky.WCZHR8M6vehmFsjwUfX8ZXSHb8x5VCq3clgzNsdzNQ8g.0-kgeWL7MqbLOCOSviar5qBOuWFlNX46bHaLxkU32Ckg.JPEG/IACZwqAs5V4CAVizyM4puOHuZ_Jo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[BTS] Film Camera with BTS (빅히트 뮤직 ─ BTS)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32476483&amp;memberNo=51325039&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32476483&amp;memberNo=51325039&amp;navigationType=push</guid>
@@ -444,14 +452,6 @@
             <pubDate>Wed, 06 Oct 2021 23:28:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">빅히트 뮤직</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMTNfNTUg/MDAxNjA1MjU4ODcwMjQ2.Mkqlovpd_QjkREoUDhqFmGmNGX-C23XFuasfbRGSWLog.FNy5eD4ZjFPe1vFcCbfkSgc8BDgwzSfw0Xl_DnWfrTQg.JPEG/IREbQJpywf9Zq_X7k_-xsPEiZTTI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BTS] 2021년도 휀-클럽 아미와 함께할 비티엣-스가 돌아왔읍니다! (빅히트 뮤직 ─ BTS)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29943041&amp;memberNo=51325039&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29943041&amp;memberNo=51325039&amp;navigationType=push</guid>
-            <pubDate>Wed, 06 Oct 2021 23:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">빅히트 뮤직</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMDlfMjI5/MDAxNjA0ODk3ODc5ODY4.xE-Mgh8HFqxUX-Y1LjIk_oZtF-uemuk-ewSGUVcQXvMg.Y-Xu76hUjqZTaVxSDoBPPmWosHeVFVYbOOhr2QeTGWQg.JPEG/IkNqiW9pi9yj-D9K7LIXEbv9W4qU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
