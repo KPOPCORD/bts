@@ -4,32 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 08:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 09:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[호잇 (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-26651746</link>
-            <guid>https://www.vlive.tv/post/1-26651746</guid>
-            <pubDate>Sun, 28 Nov 2021 08:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[5분 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_221/16380880709105AdIn_JPEG/d043ed23-5024-11ec-b39d-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2부입니다 (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-26652394</link>
             <guid>https://www.vlive.tv/post/1-26652394</guid>
             <pubDate>Sun, 28 Nov 2021 08:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[7분 전]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/270374/thumb?type=f640_362" length="0" type="image//live/270374/thumb"/>
+            <content:encoded><![CDATA[39분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211128_148/1638090965601RWtad_JPEG/upload_54360569519574761ca9cd720-261e-466c-b0a8-4e731f59ef9f.jpeg?type=f359x202" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[호잇 (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-26651746</link>
+            <guid>https://www.vlive.tv/post/1-26651746</guid>
+            <pubDate>Sun, 28 Nov 2021 08:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211128_19/1638090926255mpKWM_JPEG/upload_82170657416672776560a38aa-d328-4145-90d9-d3fa5247a714.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[아미 만나서 신난 태형이 왔다! (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-26650967</link>
             <guid>https://www.vlive.tv/post/1-26650967</guid>
             <pubDate>Sun, 28 Nov 2021 08:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[17분 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_44/1638087388583Cja4V_JPEG/f2a6564f-5022-11ec-8140-a0369ff963bc_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211128_136/1638090907594UTfUN_JPEG/upload_54360510932367439c721bc1e-a52a-4f54-ab6b-bbd5c38654f1.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[focus on... (BTS ─ Star Board)]]></title>
