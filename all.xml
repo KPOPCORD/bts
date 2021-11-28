@@ -4,16 +4,39 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 07:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 08:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호잇 (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-26651746</link>
+            <guid>https://www.vlive.tv/post/1-26651746</guid>
+            <pubDate>Sun, 28 Nov 2021 08:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[5분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211128_221/16380880709105AdIn_JPEG/d043ed23-5024-11ec-b39d-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2부입니다 (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-26652394</link>
+            <guid>https://www.vlive.tv/post/1-26652394</guid>
+            <pubDate>Sun, 28 Nov 2021 08:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270374/thumb?type=f640_362" length="0" type="image//live/270374/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[아미 만나서 신난 태형이 왔다! (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-26650967</link>
+            <guid>https://www.vlive.tv/post/1-26650967</guid>
+            <pubDate>Sun, 28 Nov 2021 08:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[17분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211128_44/1638087388583Cja4V_JPEG/f2a6564f-5022-11ec-8140-a0369ff963bc_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[focus on... (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-26558018</link>
             <guid>https://www.vlive.tv/post/0-26558018</guid>
             <pubDate>Mon, 22 Nov 2021 07:28:06 GMT</pubDate>
             <content:encoded><![CDATA[11.22.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211122_1/1637564661876S46eo_JPEG/034adf18-4b5e-11ec-92ae-a0369ff952f4_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콘서트 전 감짝 등장!😊 (BTS ─ Star Board)]]></title>
@@ -21,7 +44,6 @@
             <guid>https://www.vlive.tv/post/0-26072555</guid>
             <pubDate>Wed, 20 Oct 2021 09:28:59 GMT</pubDate>
             <content:encoded><![CDATA[10.20.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211020_61/1634721340888v6DPK_JPEG/upload_7880107215640637843b6f506-c7dd-4571-a740-cf0481d142f2.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지민씨 등장 (BTS ─ Star Board)]]></title>
@@ -29,7 +51,6 @@
             <guid>https://www.vlive.tv/post/1-25965356</guid>
             <pubDate>Wed, 13 Oct 2021 10:31:46 GMT</pubDate>
             <content:encoded><![CDATA[10.13.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Run BTS! 2021 - EP.155 (BTS ─ Star Board)]]></title>
@@ -128,27 +149,6 @@
             <guid>https://www.vlive.tv/post/0-25159072</guid>
             <pubDate>Wed, 06 Oct 2021 23:28:21 GMT</pubDate>
             <content:encoded><![CDATA[9.3.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[해피 벌스데이 투 미🥳 (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-25087704</link>
-            <guid>https://www.vlive.tv/post/1-25087704</guid>
-            <pubDate>Wed, 06 Oct 2021 23:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[8.31.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Run BTS! 2021 - EP.149 (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-24929236</link>
-            <guid>https://www.vlive.tv/post/1-24929236</guid>
-            <pubDate>Wed, 06 Oct 2021 23:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[8.31.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뿅 (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-25056764</link>
-            <guid>https://www.vlive.tv/post/0-25056764</guid>
-            <pubDate>Wed, 06 Oct 2021 23:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[8.30.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단 그래미 어워즈 베스트 팝 듀오/그룹 퍼포먼스 노미네이트 된 이유 (BTS ─ Notice)]]></title>
