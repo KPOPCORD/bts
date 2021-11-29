@@ -4,15 +4,23 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 07:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:35:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2회차 끝]]></title>
+            <link>https://www.vlive.tv/post/1-26669936</link>
+            <guid>https://www.vlive.tv/post/1-26669936</guid>
+            <pubDate>Mon, 29 Nov 2021 08:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[54분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_163/1638171675783GwzIF_JPEG/upload_544412740695940345cc29300-e5e3-409c-9090-cd9bfa2d1ba8.jpeg?type=f359x202" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[2부입니다]]></title>
             <link>https://www.vlive.tv/post/1-26652394</link>
             <guid>https://www.vlive.tv/post/1-26652394</guid>
             <pubDate>Sun, 28 Nov 2021 08:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_184/16381215095059VPqB_JPEG/upload_822012408061328164374d859-caed-4d86-8a09-7073e62058f0.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://www.vlive.tv/post/1-26651746</link>
             <guid>https://www.vlive.tv/post/1-26651746</guid>
             <pubDate>Sun, 28 Nov 2021 08:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.28.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_68/16380929140376Ut3l_JPEG/upload_8217264490022905279a0484e-ea05-4ff7-b0da-c669af100f6d.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -28,8 +36,7 @@
             <link>https://www.vlive.tv/post/1-26650967</link>
             <guid>https://www.vlive.tv/post/1-26650967</guid>
             <pubDate>Sun, 28 Nov 2021 08:33:39 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_132/1638123609852nV9FK_JPEG/upload_82203331832974266437896c6-e00d-4b7f-9ad5-e39bc971fed2.jpeg?type=f359x202" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[11.28.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[focus on...]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-25128890</guid>
             <pubDate>Wed, 29 Sep 2021 16:47:23 GMT</pubDate>
             <content:encoded><![CDATA[9.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[BTS] 소중한 날 기념!! 노래 만들기 with 천재로맨틱강아지 전정국🎤🎶 (HAPPY JUNGKOOK DAY!)]]></title>
-            <link>https://www.vlive.tv/post/0-25159072</link>
-            <guid>https://www.vlive.tv/post/0-25159072</guid>
-            <pubDate>Wed, 29 Sep 2021 16:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[9.3.]]></content:encoded>
         </item>
     </channel>
 </rss>
