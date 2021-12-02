@@ -4,9 +4,17 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 06:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 07:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hope u enjoy😝]]></title>
+            <link>https://www.vlive.tv/post/1-26722271</link>
+            <guid>https://www.vlive.tv/post/1-26722271</guid>
+            <pubDate>Thu, 02 Dec 2021 07:28:53 GMT</pubDate>
+            <content:encoded><![CDATA[5분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270744/thumb?type=f640_362" length="0" type="image//live/270744/thumb"/>
+        </item>
         <item>
             <title><![CDATA[2회차 끝]]></title>
             <link>https://www.vlive.tv/post/1-26669936</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26651746</guid>
             <pubDate>Sun, 28 Nov 2021 08:33:39 GMT</pubDate>
             <content:encoded><![CDATA[11.28.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_68/16380929140376Ut3l_JPEG/upload_8217264490022905279a0484e-ea05-4ff7-b0da-c669af100f6d.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[아미 만나서 신난 태형이 왔다!]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-25378206</guid>
             <pubDate>Wed, 29 Sep 2021 16:47:23 GMT</pubDate>
             <content:encoded><![CDATA[9.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Run BTS! 2021 - EP.150]]></title>
-            <link>https://www.vlive.tv/post/1-25128890</link>
-            <guid>https://www.vlive.tv/post/1-25128890</guid>
-            <pubDate>Wed, 29 Sep 2021 16:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[9.7.]]></content:encoded>
         </item>
     </channel>
 </rss>
