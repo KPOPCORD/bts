@@ -4,9 +4,17 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 09:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 10:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[석진 생일!🎂]]></title>
+            <link>https://www.vlive.tv/post/1-26784609</link>
+            <guid>https://www.vlive.tv/post/1-26784609</guid>
+            <pubDate>Sat, 04 Dec 2021 10:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270943/thumb?type=f640_362" length="0" type="image//live/270943/thumb"/>
+        </item>
         <item>
             <title><![CDATA[주니꾸기]]></title>
             <link>https://www.vlive.tv/post/0-26736641</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26669936</guid>
             <pubDate>Mon, 29 Nov 2021 08:35:16 GMT</pubDate>
             <content:encoded><![CDATA[11.29.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_163/1638171675783GwzIF_JPEG/upload_544412740695940345cc29300-e5e3-409c-9090-cd9bfa2d1ba8.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[2부입니다]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-25433369</guid>
             <pubDate>Wed, 29 Sep 2021 16:47:23 GMT</pubDate>
             <content:encoded><![CDATA[9.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Run BTS! 2021 - EP.151]]></title>
-            <link>https://www.vlive.tv/post/1-25254251</link>
-            <guid>https://www.vlive.tv/post/1-25254251</guid>
-            <pubDate>Wed, 29 Sep 2021 16:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[9.14.]]></content:encoded>
         </item>
     </channel>
 </rss>
