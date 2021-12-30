@@ -4,9 +4,17 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 13:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 17:56:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS - Teaser SPOT]]></title>
+            <link>https://www.vlive.tv/post/1-27137151</link>
+            <guid>https://www.vlive.tv/post/1-27137151</guid>
+            <pubDate>Thu, 30 Dec 2021 17:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211229_263/1640759058626hegW5_JPEG/upload_57027749478374359aa7e773e-4348-44e4-9cd4-4b443ea7d44d.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[석진 생일!🎂& 슈퍼참치🐟쇼케이스]]></title>
             <link>https://www.vlive.tv/post/1-26784609</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26722271</guid>
             <pubDate>Sat, 18 Dec 2021 21:29:05 GMT</pubDate>
             <content:encoded><![CDATA[12.2.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_89/1638433787684pMsr2_JPEG/upload_547033889050217830b0056e3-35c2-4744-9078-982ffe067f5a.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[2회차 끝]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-25405469</guid>
             <pubDate>Sat, 18 Dec 2021 21:29:05 GMT</pubDate>
             <content:encoded><![CDATA[9.21.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[BTS] 남준이와 불안한 케이크와 그걸 바라보는 아미..🎂🎶 (HAPPY RM DAY!)]]></title>
-            <link>https://www.vlive.tv/post/1-25433369</link>
-            <guid>https://www.vlive.tv/post/1-25433369</guid>
-            <pubDate>Sat, 18 Dec 2021 21:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[9.15.]]></content:encoded>
         </item>
     </channel>
 </rss>
