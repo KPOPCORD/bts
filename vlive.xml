@@ -4,9 +4,17 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 08:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 09:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jin]]></title>
+            <link>https://www.vlive.tv/post/1-27247148</link>
+            <guid>https://www.vlive.tv/post/1-27247148</guid>
+            <pubDate>Sun, 02 Jan 2022 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_126/16410926570568Kza5_JPEG/upload_8517210258950368245269e64-8a55-4d3b-8950-ff37d0dcc2b6.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS - Teaser SPOT]]></title>
             <link>https://www.vlive.tv/post/1-27137151</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26736641</guid>
             <pubDate>Sat, 18 Dec 2021 21:29:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.3.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211203_173/1638519146284hfWJO_JPEG/upload_825988616217163390a234a8c-8294-462d-9906-1a31434a1c40.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[hope u enjoy😝]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[즐추🙂]]></title>
             <link>https://www.vlive.tv/post/0-25540747</link>
             <guid>https://www.vlive.tv/post/0-25540747</guid>
-            <pubDate>Sat, 18 Dec 2021 21:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.9.21.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Run BTS! 2021 - EP.152]]></title>
-            <link>https://www.vlive.tv/post/0-25405469</link>
-            <guid>https://www.vlive.tv/post/0-25405469</guid>
             <pubDate>Sat, 18 Dec 2021 21:29:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.9.21.]]></content:encoded>
         </item>
