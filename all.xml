@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 03:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 04:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jin (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-27247322</link>
+            <guid>https://www.vlive.tv/post/1-27247322</guid>
+            <pubDate>Mon, 03 Jan 2022 04:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_170/1641093914444C7DIu_JPEG/upload_851734060146958444de45e62-c8d8-4205-a762-df8ffd18d646.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jin (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-27247148</link>
             <guid>https://www.vlive.tv/post/1-27247148</guid>
             <pubDate>Sun, 02 Jan 2022 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220102_126/16410926570568Kza5_JPEG/upload_8517210258950368245269e64-8a55-4d3b-8950-ff37d0dcc2b6.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26784609</guid>
             <pubDate>Sat, 11 Dec 2021 03:30:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.4.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_233/16386184306010X0xi_JPEG/upload_8269812055083229294231289-1df9-400e-93a5-fa9d30a136be.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[주니꾸기 (BTS ─ Star Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[즐추🙂🤩 (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-25547543</link>
             <guid>https://www.vlive.tv/post/1-25547543</guid>
-            <pubDate>Sat, 11 Dec 2021 03:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.9.21.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[즐추🙂 (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-25540747</link>
-            <guid>https://www.vlive.tv/post/0-25540747</guid>
             <pubDate>Sat, 11 Dec 2021 03:30:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.9.21.]]></content:encoded>
         </item>
