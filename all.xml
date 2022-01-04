@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 08:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 09:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - RM (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-27271382</link>
+            <guid>https://www.vlive.tv/post/0-27271382</guid>
+            <pubDate>Tue, 04 Jan 2022 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220104_3/1641259562753B32vT_JPEG/upload_575290550484835945e81b0d2-62e4-44b9-a4c7-a1d7bd38eb93.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jin (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-27247322</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-27137151</guid>
             <pubDate>Thu, 30 Dec 2021 17:56:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211229_263/1640759058626hegW5_JPEG/upload_57027749478374359aa7e773e-4348-44e4-9cd4-4b443ea7d44d.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[석진 생일!🎂& 슈퍼참치🐟쇼케이스 (BTS ─ Star Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[다시 즐추😍 (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-25547988</link>
             <guid>https://www.vlive.tv/post/1-25547988</guid>
-            <pubDate>Sat, 11 Dec 2021 03:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.9.21.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[즐추🙂🤩 (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-25547543</link>
-            <guid>https://www.vlive.tv/post/1-25547543</guid>
             <pubDate>Sat, 11 Dec 2021 03:30:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.9.21.]]></content:encoded>
         </item>
