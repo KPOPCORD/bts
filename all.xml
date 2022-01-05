@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 03:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 04:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from RM (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-27277997</link>
+            <guid>https://www.vlive.tv/post/1-27277997</guid>
+            <pubDate>Wed, 05 Jan 2022 04:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[17분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220104_17/1641261601606tPEmS_JPEG/upload_5753100388712674545cc8ca6-7071-4e65-840b-62097e466163.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - RM (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-27271382</link>
             <guid>https://www.vlive.tv/post/0-27271382</guid>
             <pubDate>Tue, 04 Jan 2022 09:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220104_3/1641259562753B32vT_JPEG/upload_575290550484835945e81b0d2-62e4-44b9-a4c7-a1d7bd38eb93.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-27247148</guid>
             <pubDate>Sun, 02 Jan 2022 09:13:05 GMT</pubDate>
             <content:encoded><![CDATA[1.2.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220102_126/16410926570568Kza5_JPEG/upload_8517210258950368245269e64-8a55-4d3b-8950-ff37d0dcc2b6.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS - Teaser SPOT (BTS ─ Star Board)]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[찐막 즐추😊 (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-25542241</link>
             <guid>https://www.vlive.tv/post/0-25542241</guid>
-            <pubDate>Sat, 11 Dec 2021 03:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.9.21.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다시 즐추😍 (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-25547988</link>
-            <guid>https://www.vlive.tv/post/1-25547988</guid>
             <pubDate>Sat, 11 Dec 2021 03:30:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.9.21.]]></content:encoded>
         </item>
