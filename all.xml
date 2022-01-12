@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 03:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 04:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from SUGA (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/1-27383348</link>
+            <guid>https://www.vlive.tv/post/1-27383348</guid>
+            <pubDate>Wed, 12 Jan 2022 04:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220111_265/1641868124947CTjBp_JPEG/upload_8594768694306398698844997-f9c0-43a5-aca2-30845c1d0b9e.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - SUGA (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/0-27376746</link>
             <guid>https://www.vlive.tv/post/0-27376746</guid>
             <pubDate>Tue, 11 Jan 2022 22:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220111_222/1641867338999ELLPG_JPEG/upload_85946856718416277de4efc10-ca0d-4342-99f4-6ca1e38ad7fe.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-27348509</guid>
             <pubDate>Tue, 11 Jan 2022 22:13:05 GMT</pubDate>
             <content:encoded><![CDATA[1.9.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220109_17/16416568747985PcCe_JPEG/upload_85736400157995877d449a994-642e-4736-8e73-a0dff59f5f50.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from RM (BTS ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-25803142</guid>
             <pubDate>Tue, 11 Jan 2022 22:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Run BTS! 2021 - EP.154 (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-25672946</link>
-            <guid>https://www.vlive.tv/post/0-25672946</guid>
-            <pubDate>Tue, 11 Jan 2022 22:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.5.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단 그래미 어워즈 베스트 팝 듀오/그룹 퍼포먼스 노미네이트 된 이유 (BTS ─ Notice)]]></title>
