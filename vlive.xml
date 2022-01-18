@@ -4,9 +4,17 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 08:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 09:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - j-hope]]></title>
+            <link>https://www.vlive.tv/post/0-27484801</link>
+            <guid>https://www.vlive.tv/post/0-27484801</guid>
+            <pubDate>Tue, 18 Jan 2022 09:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220118_37/1642474109868lfOg4_JPEG/upload_8655366236913483096af0ee4-a96f-438c-9fcb-07eedb486751.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jimin]]></title>
             <link>https://www.vlive.tv/post/0-27468803</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-27383348</guid>
             <pubDate>Wed, 12 Jan 2022 21:12:05 GMT</pubDate>
             <content:encoded><![CDATA[1.12.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220111_265/1641868124947CTjBp_JPEG/upload_8594768694306398698844997-f9c0-43a5-aca2-30845c1d0b9e.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - SUGA]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-26558018</guid>
             <pubDate>Wed, 12 Jan 2022 21:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.22.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콘서트 전 감짝 등장!😊]]></title>
-            <link>https://www.vlive.tv/post/0-26072555</link>
-            <guid>https://www.vlive.tv/post/0-26072555</guid>
-            <pubDate>Wed, 12 Jan 2022 21:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20.]]></content:encoded>
         </item>
     </channel>
 </rss>
