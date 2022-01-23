@@ -4,15 +4,23 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 03:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 04:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
+            <link>https://www.vlive.tv/post/1-27537008</link>
+            <guid>https://www.vlive.tv/post/1-27537008</guid>
+            <pubDate>Sun, 23 Jan 2022 04:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jung Kook]]></title>
             <link>https://www.vlive.tv/post/0-27530507</link>
             <guid>https://www.vlive.tv/post/0-27530507</guid>
             <pubDate>Sat, 22 Jan 2022 09:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220121_294/1642742010233PXj1U_JPEG/upload_86821530519990350946d3353-e30e-456d-9dc9-66daf95a6fd1.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-27484801</guid>
             <pubDate>Tue, 18 Jan 2022 09:14:01 GMT</pubDate>
             <content:encoded><![CDATA[1.18.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220118_37/1642474109868lfOg4_JPEG/upload_8655366236913483096af0ee4-a96f-438c-9fcb-07eedb486751.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jimin]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[2부입니다]]></title>
             <link>https://www.vlive.tv/post/1-26652394</link>
             <guid>https://www.vlive.tv/post/1-26652394</guid>
-            <pubDate>Wed, 12 Jan 2022 21:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[호잇]]></title>
-            <link>https://www.vlive.tv/post/1-26651746</link>
-            <guid>https://www.vlive.tv/post/1-26651746</guid>
             <pubDate>Wed, 12 Jan 2022 21:12:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
         </item>
