@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/FE619/board/3498?lang=ko</id>
-    <title>BTS ─ Star Board</title>
-    <updated>2022-01-27T07:13:55.292Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>BTS ─ Star Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Jan 2022 08:17:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
+            <link>https://www.vlive.tv/post/1-27537008</link>
+            <guid>https://www.vlive.tv/post/1-27537008</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.23.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jung Kook]]></title>
+            <link>https://www.vlive.tv/post/0-27530507</link>
+            <guid>https://www.vlive.tv/post/0-27530507</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.22.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220121_294/1642742010233PXj1U_JPEG/upload_86821530519990350946d3353-e30e-456d-9dc9-66daf95a6fd1.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from j-hope]]></title>
+            <link>https://www.vlive.tv/post/0-27499764</link>
+            <guid>https://www.vlive.tv/post/0-27499764</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.19.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_60/1642565743429wQwNP_JPEG/upload_8664541025144065198679d73-eaa2-4f13-a0be-ee7288a976d9.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - j-hope]]></title>
+            <link>https://www.vlive.tv/post/0-27484801</link>
+            <guid>https://www.vlive.tv/post/0-27484801</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jimin]]></title>
+            <link>https://www.vlive.tv/post/0-27468803</link>
+            <guid>https://www.vlive.tv/post/0-27468803</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.17.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jimin]]></title>
+            <link>https://www.vlive.tv/post/0-27435507</link>
+            <guid>https://www.vlive.tv/post/0-27435507</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from SUGA]]></title>
+            <link>https://www.vlive.tv/post/1-27383348</link>
+            <guid>https://www.vlive.tv/post/1-27383348</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - SUGA]]></title>
+            <link>https://www.vlive.tv/post/0-27376746</link>
+            <guid>https://www.vlive.tv/post/0-27376746</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from V]]></title>
+            <link>https://www.vlive.tv/post/1-27368097</link>
+            <guid>https://www.vlive.tv/post/1-27368097</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.10.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - V]]></title>
+            <link>https://www.vlive.tv/post/1-27348509</link>
+            <guid>https://www.vlive.tv/post/1-27348509</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from RM]]></title>
+            <link>https://www.vlive.tv/post/1-27277997</link>
+            <guid>https://www.vlive.tv/post/1-27277997</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.5.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - RM]]></title>
+            <link>https://www.vlive.tv/post/0-27271382</link>
+            <guid>https://www.vlive.tv/post/0-27271382</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.4.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jin]]></title>
+            <link>https://www.vlive.tv/post/1-27247322</link>
+            <guid>https://www.vlive.tv/post/1-27247322</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jin]]></title>
+            <link>https://www.vlive.tv/post/1-27247148</link>
+            <guid>https://www.vlive.tv/post/1-27247148</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1.2.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS - Teaser SPOT]]></title>
+            <link>https://www.vlive.tv/post/1-27137151</link>
+            <guid>https://www.vlive.tv/post/1-27137151</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.30.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[석진 생일!🎂& 슈퍼참치🐟쇼케이스]]></title>
+            <link>https://www.vlive.tv/post/1-26784609</link>
+            <guid>https://www.vlive.tv/post/1-26784609</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.4.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[주니꾸기]]></title>
+            <link>https://www.vlive.tv/post/0-26736641</link>
+            <guid>https://www.vlive.tv/post/0-26736641</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[hope u enjoy😝]]></title>
+            <link>https://www.vlive.tv/post/1-26722271</link>
+            <guid>https://www.vlive.tv/post/1-26722271</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.2.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2회차 끝]]></title>
+            <link>https://www.vlive.tv/post/1-26669936</link>
+            <guid>https://www.vlive.tv/post/1-26669936</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.29.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2부입니다]]></title>
+            <link>https://www.vlive.tv/post/1-26652394</link>
+            <guid>https://www.vlive.tv/post/1-26652394</guid>
+            <pubDate>Thu, 27 Jan 2022 08:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
