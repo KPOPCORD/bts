@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 14:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 15:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피홉데이 🤗 (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-27960537</link>
+            <guid>https://www.vlive.tv/post/0-27960537</guid>
+            <pubDate>Thu, 17 Feb 2022 15:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/277359/thumb?type=f640_362" length="0" type="image//live/277359/thumb"/>
+        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-27537008</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-27499764</guid>
             <pubDate>Sat, 29 Jan 2022 11:10:46 GMT</pubDate>
             <content:encoded><![CDATA[1.19.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220119_60/1642565743429wQwNP_JPEG/upload_8664541025144065198679d73-eaa2-4f13-a0be-ee7288a976d9.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - j-hope (BTS ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-26669936</guid>
             <pubDate>Sat, 29 Jan 2022 11:10:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2부입니다 (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/1-26652394</link>
-            <guid>https://www.vlive.tv/post/1-26652394</guid>
-            <pubDate>Sat, 29 Jan 2022 11:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.28.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단 그래미 어워즈 베스트 팝 듀오/그룹 퍼포먼스 노미네이트 된 이유 (BTS ─ Notice)]]></title>
