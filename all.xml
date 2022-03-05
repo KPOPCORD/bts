@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 09:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 10:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <content:encoded><![CDATA[2017.5.26.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[BTS] 방탄소년단이뜬이유지금바로확인가능 (click) (빅히트 뮤직 ─ BTS)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33399984&amp;memberNo=51325039&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33399984&amp;memberNo=51325039&amp;navigationType=push</guid>
+            <pubDate>Sat, 05 Mar 2022 10:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">빅히트 뮤직</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDNfMjUw/MDAxNjQ2MzA3OTkzOTMy.Z7rrLHVgld3Fu5sl5AgtD2uyGpsG178Kja-Nz7QCo4Ag.BuAviAyZNjlqAcC3t_nSbYAbMpnVGwZTIUiqcsKHyJog.JPEG/IU-8DftIX8pHfg3et-5Uj_6dov5c.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[BTS] 슉슈슉,,슉,,,슈슉,,GQ&VOGUE 비하인드,,슉슈슉,,슈슉,, (빅히트 뮤직 ─ BTS)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33200691&amp;memberNo=51325039&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33200691&amp;memberNo=51325039&amp;navigationType=push</guid>
@@ -444,14 +452,6 @@
             <pubDate>Sat, 11 Dec 2021 03:30:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">빅히트 뮤직</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMDlfMjkz/MDAxNjEwMTY4Mjk5MDUy.KlLAgDTbs7KQuYpDx38i-SSVPeyRfzdLisVsSgaR-hMg.gYBFWIqtO3uSR9E1Iogg_-Jw6hnQ-QGJ7X6f2JHU_qYg.JPEG/I6-vRTqcGzZzstHLN43InXbWIvtY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BTS] 2019-2020 비티엣스 셀카 대-방출! (빅히트 뮤직 ─ BTS)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30363899&amp;memberNo=51325039&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30363899&amp;memberNo=51325039&amp;navigationType=push</guid>
-            <pubDate>Sat, 11 Dec 2021 03:30:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">빅히트 뮤직</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMzBfMTM3/MDAxNjA5MzMxODMxNjU3.zdbKB790hWugiLwDP5mv0Li8iUfZ6hJBWeErbQV4-zIg.npFtTlvF3rD9I1cYvMf9lYeuBtyKUpOLFzq88eb8L0Mg.JPEG/ImOwlEdmWIiZjReIhaYfIewNC3z8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
