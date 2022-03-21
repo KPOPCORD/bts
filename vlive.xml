@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/FE619/board/3498?lang=ko</id>
-    <title>BTS ─ Star Board</title>
-    <updated>2022-03-21T00:53:43.796Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>BTS ─ Star Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 21 Mar 2022 02:26:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짜잔! BTS!!]]></title>
+            <link>https://www.vlive.tv/post/0-28415475</link>
+            <guid>https://www.vlive.tv/post/0-28415475</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[3.19.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_7/1647687448499jDeVv_JPEG/upload_63957049777730443609b6f25-0dea-4faa-a630-1304765785a9.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생일입니다]]></title>
+            <link>https://www.vlive.tv/post/1-28260058</link>
+            <guid>https://www.vlive.tv/post/1-28260058</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[3.8.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220308_55/1646749008253wD6Ux_JPEG/upload_908287260736608824ccc7c69-12c4-44da-920b-c0e293359e85.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죄쫜뿌꿔2]]></title>
+            <link>https://www.vlive.tv/post/0-28215943</link>
+            <guid>https://www.vlive.tv/post/0-28215943</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[3.6.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220306_294/1646565957203ziENN_JPEG/upload_90645671130984292f768c6a6-e873-42ce-a39c-5eade3aaafc8.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죄쫜부꿔]]></title>
+            <link>https://www.vlive.tv/post/0-28215821</link>
+            <guid>https://www.vlive.tv/post/0-28215821</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[3.6.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[머리가 많이 길었습니다]]></title>
+            <link>https://www.vlive.tv/post/1-28148375</link>
+            <guid>https://www.vlive.tv/post/1-28148375</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[3.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뒷 부럼깨기 🌕]]></title>
+            <link>https://www.vlive.tv/post/0-28008512</link>
+            <guid>https://www.vlive.tv/post/0-28008512</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[2.20.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해피홉데이 🤗]]></title>
+            <link>https://www.vlive.tv/post/0-27960537</link>
+            <guid>https://www.vlive.tv/post/0-27960537</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[2.17.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
+            <link>https://www.vlive.tv/post/1-27537008</link>
+            <guid>https://www.vlive.tv/post/1-27537008</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jung Kook]]></title>
+            <link>https://www.vlive.tv/post/0-27530507</link>
+            <guid>https://www.vlive.tv/post/0-27530507</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.22.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from j-hope]]></title>
+            <link>https://www.vlive.tv/post/0-27499764</link>
+            <guid>https://www.vlive.tv/post/0-27499764</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.19.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - j-hope]]></title>
+            <link>https://www.vlive.tv/post/0-27484801</link>
+            <guid>https://www.vlive.tv/post/0-27484801</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.18.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jimin]]></title>
+            <link>https://www.vlive.tv/post/0-27468803</link>
+            <guid>https://www.vlive.tv/post/0-27468803</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.17.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jimin]]></title>
+            <link>https://www.vlive.tv/post/0-27435507</link>
+            <guid>https://www.vlive.tv/post/0-27435507</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from SUGA]]></title>
+            <link>https://www.vlive.tv/post/1-27383348</link>
+            <guid>https://www.vlive.tv/post/1-27383348</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.12.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - SUGA]]></title>
+            <link>https://www.vlive.tv/post/0-27376746</link>
+            <guid>https://www.vlive.tv/post/0-27376746</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from V]]></title>
+            <link>https://www.vlive.tv/post/1-27368097</link>
+            <guid>https://www.vlive.tv/post/1-27368097</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.10.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - V]]></title>
+            <link>https://www.vlive.tv/post/1-27348509</link>
+            <guid>https://www.vlive.tv/post/1-27348509</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from RM]]></title>
+            <link>https://www.vlive.tv/post/1-27277997</link>
+            <guid>https://www.vlive.tv/post/1-27277997</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.5.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - RM]]></title>
+            <link>https://www.vlive.tv/post/0-27271382</link>
+            <guid>https://www.vlive.tv/post/0-27271382</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.4.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jin]]></title>
+            <link>https://www.vlive.tv/post/1-27247322</link>
+            <guid>https://www.vlive.tv/post/1-27247322</guid>
+            <pubDate>Mon, 21 Mar 2022 02:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[1.3.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
