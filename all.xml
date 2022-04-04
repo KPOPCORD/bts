@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 05:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 06:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보라해💜💜 (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-28642467</link>
+            <guid>https://www.vlive.tv/post/0-28642467</guid>
+            <pubDate>Mon, 04 Apr 2022 06:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[28분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220404_162/16490512229316Gnur_JPEG/upload_931308840772431337eabaef7-182c-4137-884b-d277034e4b9f.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보라해💜 (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-28645681</link>
             <guid>https://www.vlive.tv/post/1-28645681</guid>
             <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[56분 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220404_211/1649045822814bN1gg_JPEG/bf480b8a-b3cd-11ec-8c89-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28260058</guid>
             <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA[3.8.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220308_55/1646749008253wD6Ux_JPEG/upload_908287260736608824ccc7c69-12c4-44da-920b-c0e293359e85.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[죄쫜뿌꿔2 (BTS ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-27277997</guid>
             <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA[1.5.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - RM (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-27271382</link>
-            <guid>https://www.vlive.tv/post/0-27271382</guid>
-            <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[1.4.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단 그래미 어워즈 베스트 팝 듀오/그룹 퍼포먼스 노미네이트 된 이유 (BTS ─ Notice)]]></title>
