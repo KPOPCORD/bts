@@ -4,9 +4,17 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 07:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 08:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[졸려요🐰🐰🐰]]></title>
+            <link>https://www.vlive.tv/post/0-28657239</link>
+            <guid>https://www.vlive.tv/post/0-28657239</guid>
+            <pubDate>Tue, 05 Apr 2022 08:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280765/thumb?type=f640_362" length="0" type="image//live/280765/thumb"/>
+        </item>
         <item>
             <title><![CDATA[보라해💜💜]]></title>
             <link>https://www.vlive.tv/post/0-28642467</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-28415475</guid>
             <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA[3.19.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220319_7/1647687448499jDeVv_JPEG/upload_63957049777730443609b6f25-0dea-4faa-a630-1304765785a9.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생일입니다]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-27348509</guid>
             <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA[1.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from RM]]></title>
-            <link>https://www.vlive.tv/post/1-27277997</link>
-            <guid>https://www.vlive.tv/post/1-27277997</guid>
-            <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[1.5.]]></content:encoded>
         </item>
     </channel>
 </rss>
