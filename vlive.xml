@@ -4,9 +4,17 @@
         <title>BTS ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 06:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 07:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남준씨..]]></title>
+            <link>https://www.vlive.tv/post/1-28711248</link>
+            <guid>https://www.vlive.tv/post/1-28711248</guid>
+            <pubDate>Sat, 09 Apr 2022 07:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[34분 전]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281058/thumb?type=f640_362" length="0" type="image//live/281058/thumb"/>
+        </item>
         <item>
             <title><![CDATA[졸려요🐰🐰🐰]]></title>
             <link>https://www.vlive.tv/post/0-28657239</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28645681</guid>
             <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA[4.4.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_211/1649045822814bN1gg_JPEG/bf480b8a-b3cd-11ec-8c89-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짜잔! BTS!!]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-27368097</guid>
             <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA[1.10.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - V]]></title>
-            <link>https://www.vlive.tv/post/1-27348509</link>
-            <guid>https://www.vlive.tv/post/1-27348509</guid>
-            <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[1.9.]]></content:encoded>
         </item>
     </channel>
 </rss>
