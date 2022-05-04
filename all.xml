@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 11:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 12:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[댓댓 (BTS ─ Star Board)]]></title>
+            <link>https://www.vlive.tv/post/0-29028985</link>
+            <guid>https://www.vlive.tv/post/0-29028985</guid>
+            <pubDate>Wed, 04 May 2022 12:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[1분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_25/16516672499111ETil_JPEG/03546eb6-cba5-11ec-a9d0-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뿅😊 (BTS ─ Star Board)]]></title>
             <link>https://www.vlive.tv/post/1-28801010</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-28657239</guid>
             <pubDate>Tue, 05 Apr 2022 08:16:57 GMT</pubDate>
             <content:encoded><![CDATA[4.5.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220406_269/16492171529905hlmf_JPEG/upload_6548674702626968227b83bae-d663-4971-92a2-9fa9bb75b7c8.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보라해💜💜 (BTS ─ Star Board)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-27383348</guid>
             <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA[1.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - SUGA (BTS ─ Star Board)]]></title>
-            <link>https://www.vlive.tv/post/0-27376746</link>
-            <guid>https://www.vlive.tv/post/0-27376746</guid>
-            <pubDate>Mon, 04 Apr 2022 05:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[1.11.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방탄소년단 그래미 어워즈 베스트 팝 듀오/그룹 퍼포먼스 노미네이트 된 이유 (BTS ─ Notice)]]></title>
